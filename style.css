@@ -1,0 +1,34 @@
+.h1{
+    color: red;
+}
+.h2{
+     font-style: italic ;
+     color: red;
+    }
+.yel{
+    background-color: yellow;
+}
+p{
+    color: coral;
+}
+.a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.b{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 5px;
+}
+#link{
+    font-style: italic;
+    color: red;
+    background-color: yellow;
+}  
+.c{
+    color: brown;
+} 
+.d{
+    color: brown;
+}
+.e{
+    color: brown;
+}
