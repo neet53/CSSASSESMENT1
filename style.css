@@ -22,6 +22,7 @@ p{
     font-style: italic;
     color: red;
     background-color: yellow;
+    text-decoration: none;
 }  
 .c{
     color: brown;
